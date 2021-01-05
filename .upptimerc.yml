@@ -4,8 +4,8 @@ repo: yzh_monitor # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: yzh
-    url: http://www.yzhjp.cn
+  - name: yzhjp
+    url: http://yingzhihejp.cn/
     
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
