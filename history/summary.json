@@ -1,20 +1,20 @@
 [
   {
-    "name": "yzh",
-    "url": "http://www.yzhjp.cn",
-    "icon": "https://favicons.githubusercontent.com/www.yzhjp.cn",
-    "slug": "yzh",
-    "status": "down",
+    "name": "yzhjp",
+    "url": "http://yingzhihejp.cn/",
+    "icon": "https://favicons.githubusercontent.com/yingzhihejp.cn",
+    "slug": "yzhjp",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 812,
+    "timeDay": 812,
+    "timeWeek": 812,
+    "timeMonth": 812,
+    "timeYear": 812,
     "dailyMinutesDown": {}
   }
 ]
