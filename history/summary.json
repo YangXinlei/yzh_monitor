@@ -4,17 +4,17 @@
     "url": "http://yingzhihejp.cn/",
     "icon": "https://favicons.githubusercontent.com/yingzhihejp.cn",
     "slug": "yzhjp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1166,
-    "timeDay": 1107,
-    "timeWeek": 1099,
-    "timeMonth": 1097,
-    "timeYear": 1166,
+    "time": 1165,
+    "timeDay": 1017,
+    "timeWeek": 1077,
+    "timeMonth": 1091,
+    "timeYear": 1165,
     "dailyMinutesDown": {}
   }
 ]
