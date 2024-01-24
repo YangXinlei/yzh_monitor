@@ -4,17 +4,17 @@
     "url": "http://yingzhihejp.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/yingzhihejp.cn.ico",
     "slug": "yzhjp",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1229,
-    "timeDay": 1248,
-    "timeWeek": 1303,
-    "timeMonth": 1338,
-    "timeYear": 1259,
+    "timeDay": 1119,
+    "timeWeek": 1246,
+    "timeMonth": 1320,
+    "timeYear": 1258,
     "dailyMinutesDown": {}
   }
 ]
